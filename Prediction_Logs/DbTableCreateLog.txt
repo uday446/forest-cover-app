@@ -1,0 +1,88 @@
+2020-02-17/22:48:45		Tables created successfully!!
+2020-02-18/02:41:04		Tables created successfully!!
+2020-04-16/14:34:56		Tables created successfully!!
+2021-10-12/11:21:31		Error while creating table: [Errno 2] No such file or directory: '/creds.zip' 
+2021-10-12/11:26:03		Error while creating table: [Errno 2] No such file or directory: '/creds.zip' 
+2021-10-12/11:47:18		Error while creating table: [Errno 2] No such file or directory: '/creds.zip' 
+2021-10-12/11:52:21		Error while creating table: [Errno 2] No such file or directory: '/creds.zip' 
+2021-10-12/11:54:53		Error while creating table: [Errno 2] No such file or directory: '/creds.zip' 
+2021-10-12/11:54:58		Error while creating table: [Errno 2] No such file or directory: '/creds.zip' 
+2021-10-12/12:07:11		Error while creating table: [Errno 2] No such file or directory: '/creds.zip' 
+2021-10-12/12:08:40		Error while creating table: [Errno 2] No such file or directory: '/creds.zip' 
+2021-10-12/12:08:51		Error while creating table: [Errno 2] No such file or directory: '/creds.zip' 
+2021-10-12/12:20:16		Error while creating table: [Errno 2] No such file or directory: '/creds.zip' 
+2021-10-12/12:20:33		Error while creating table: [Errno 2] No such file or directory: '/creds.zip' 
+2021-10-12/12:40:43		Error while creating table: [Errno 2] No such file or directory: '/secure-connect-internship.zip' 
+2021-10-12/12:42:53		Error while creating table: [Errno 22] Invalid argument: 'D:\\ML a-z\\ineuoron\\Internship\x0corestCover\\code\x0corest_cover_Classification\\secure-connect-internship.zip' 
+2021-10-12/12:44:21		Error while creating table: ("Unable to connect to any servers using keyspace 'Internship'", ['b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com', 'b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com', 'b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com']) 
+2021-10-12/12:45:57		Error while creating table: Error from server: code=2100 [Unauthorized] message="Missing correct permission on project.good_raw_data" 
+2021-10-12/12:52:00		Error while creating table: Error from server: code=2200 [Invalid query] message="No PRIMARY KEY specified for table 'name.good_raw_data' (exactly one required)" 
+2021-10-12/12:58:54		Error while creating table: Error from server: code=2200 [Invalid query] message="Unknown type project.integer" 
+2021-10-12/13:01:59		Error while creating table: Table 'project.good_raw_data' already exists 
+2021-10-12/13:05:48		Error while creating table: errors={'b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:a631f9ff-433c-488b-ac3e-23bea26308e5': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:a631f9ff-433c-488b-ac3e-23bea26308e5 
+2021-10-12/13:06:43		Error while creating table: Table 'project.good_raw_data' already exists 
+2021-10-12/13:10:16		Error while creating table: 'Session' object has no attribute 'close' 
+2021-10-12/13:11:28		Tables created successfully!!
+2021-10-12/13:15:00		Tables created successfully!!
+2021-10-12/13:19:48		Tables created successfully!!
+2021-10-12/13:28:33		Error while creating table: errors={<Host: b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:a631f9ff-433c-488b-ac3e-23bea26308e5 asia-south1>: ConnectionException('Host has been marked down or removed',)}, last_host=b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:f60f6f67-60f6-41f0-9d46-4d3e139e66a9 
+2021-10-12/13:29:42		Tables created successfully!!
+2021-10-12/13:31:18		Tables created successfully!!
+2021-10-12/13:32:47		Tables created successfully!!
+2021-10-12/13:46:36		Error while creating table: errors={<Host: b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:a631f9ff-433c-488b-ac3e-23bea26308e5 asia-south1>: ConnectionException('Host has been marked down or removed',)}, last_host=b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:f60f6f67-60f6-41f0-9d46-4d3e139e66a9 
+2021-10-12/13:46:52		Tables created successfully!!
+2021-10-12/14:02:15		Error while creating table: errors={'b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:a631f9ff-433c-488b-ac3e-23bea26308e5': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:a631f9ff-433c-488b-ac3e-23bea26308e5 
+2021-10-12/14:02:31		Tables created successfully!!
+2021-10-12/14:13:14		Error while creating table: errors={'b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:f60f6f67-60f6-41f0-9d46-4d3e139e66a9': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:f60f6f67-60f6-41f0-9d46-4d3e139e66a9 
+2021-10-12/14:20:01		Tables created successfully!!
+2021-10-12/14:30:06		Error while creating table: errors={'b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:192e7403-2366-49c2-8e16-8ca2a52abbd8': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:192e7403-2366-49c2-8e16-8ca2a52abbd8 
+2021-10-12/14:30:22		Tables created successfully!!
+2021-10-12/14:52:17		Error while creating table: errors={'b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:192e7403-2366-49c2-8e16-8ca2a52abbd8': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:192e7403-2366-49c2-8e16-8ca2a52abbd8 
+2021-10-12/14:52:32		Tables created successfully!!
+2021-10-12/14:59:05		Tables created successfully!!
+2021-10-12/15:00:49		Tables created successfully!!
+2021-10-12/15:15:38		Tables created successfully!!
+2021-10-12/15:17:23		Tables created successfully!!
+2021-10-12/15:28:36		Tables created successfully!!
+2021-10-12/16:13:25		Error while creating table: errors={'b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:9e26defe-712e-4be0-bca0-5a202264d0ac': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=b2a801db-142c-4af0-b7f9-f14d7e83627f-asia-south1.db.astra.datastax.com:29042:9e26defe-712e-4be0-bca0-5a202264d0ac 
+2021-10-12/16:13:32		Error while creating table: Error from server: code=2200 [Invalid query] message="Tables cannot have more than 50 columns, but 52 provided for table good_raw_data" 
+2021-10-13/11:31:29		Tables created successfully!!
+2021-10-13/11:37:49		Tables created successfully!!
+2021-10-13/11:39:35		Tables created successfully!!
+2021-10-13/11:44:08		Tables created successfully!!
+2021-10-13/12:01:29		Tables created successfully!!
+2021-10-13/12:05:00		Tables created successfully!!
+2021-10-13/12:07:57		Tables created successfully!!
+2021-10-13/12:10:35		Tables created successfully!!
+2021-10-13/12:12:41		Tables created successfully!!
+2021-10-13/12:19:18		Tables created successfully!!
+2021-10-13/12:24:15		Tables created successfully!!
+2021-10-13/12:36:24		Tables created successfully!!
+2021-10-13/12:38:25		Tables created successfully!!
+2021-10-13/16:10:50		Tables created successfully!!
+2021-10-31/11:46:18		Tables created successfully!!
+2021-10-31/11:58:18		Tables created successfully!!
+2021-10-31/12:01:12		Tables created successfully!!
+2021-10-31/13:12:55		Tables created successfully!!
+2021-11-01/12:42:27		Tables created successfully!!
+2021-11-01/18:15:47		Tables created successfully!!
+2021-11-01/18:17:09		Tables created successfully!!
+2021-11-04/10:28:57		Tables created successfully!!
+2021-11-04/14:32:49		Tables created successfully!!
+2021-11-04/14:37:22		Tables created successfully!!
+2021-11-04/14:45:50		Tables created successfully!!
+2021-11-04/14:48:09		Tables created successfully!!
+2021-11-04/14:57:10		Tables created successfully!!
+2021-11-04/15:02:28		Tables created successfully!!
+2021-11-04/15:14:53		Tables created successfully!!
+2021-11-04/15:17:41		Tables created successfully!!
+2021-11-04/15:19:24		Tables created successfully!!
+2021-11-04/15:25:51		Tables created successfully!!
+2021-11-04/15:29:51		Tables created successfully!!
+2021-11-04/15:37:51		Tables created successfully!!
+2021-11-04/15:40:05		Tables created successfully!!
+2021-11-04/15:47:13		Tables created successfully!!
+2021-11-04/15:50:07		Tables created successfully!!
+2021-11-04/15:53:58		Tables created successfully!!
+2021-11-04/15:55:55		Tables created successfully!!
+2021-11-06/11:43:52		Error while creating table: ('Unable to connect to any servers', {'6241931c-98d3-4a26-9600-551277413c84-ap-southeast-1.db.astra.datastax.com:29042:22df22d0-ce01-447f-836a-01d6210cce45': AuthenticationFailed('Failed to authenticate to 6241931c-98d3-4a26-9600-551277413c84-ap-southeast-1.db.astra.datastax.com:29042:22df22d0-ce01-447f-836a-01d6210cce45: Error from server: code=0100 [Bad credentials] message="We recently improved your database security. To find out more and reconnect, see https://docs.datastax.com/en/astra/docs/manage-application-tokens.html"',), '6241931c-98d3-4a26-9600-551277413c84-ap-southeast-1.db.astra.datastax.com:29042:03179fad-f942-4565-be39-008b349e20d0': AuthenticationFailed('Failed to authenticate to 6241931c-98d3-4a26-9600-551277413c84-ap-southeast-1.db.astra.datastax.com:29042:03179fad-f942-4565-be39-008b349e20d0: Error from server: code=0100 [Bad credentials] message="We recently improved your database security. To find out more and reconnect, see https://docs.datastax.com/en/astra/docs/manage-application-tokens.html"',), '6241931c-98d3-4a26-9600-551277413c84-ap-southeast-1.db.astra.datastax.com:29042:d20e3a9d-b21c-47bd-86fc-f5a4b10d095d': AuthenticationFailed('Failed to authenticate to 6241931c-98d3-4a26-9600-551277413c84-ap-southeast-1.db.astra.datastax.com:29042:d20e3a9d-b21c-47bd-86fc-f5a4b10d095d: Error from server: code=0100 [Bad credentials] message="We recently improved your database security. To find out more and reconnect, see https://docs.datastax.com/en/astra/docs/manage-application-tokens.html"',)}) 

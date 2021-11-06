@@ -1,0 +1,1068 @@
+2020-02-17/19:00:57		Start of Validation on files for prediction!!
+2020-02-17/19:00:58		Raw Data Validation Complete!!
+2020-02-17/19:00:58		Starting Data Transforamtion!!
+2020-02-17/19:01:03		DataTransformation Completed!!!
+2020-02-17/19:01:04		Creating Training_Database and tables on the basis of given schema!!!
+2020-02-17/19:01:04		Table creation Completed!!
+2020-02-17/19:01:04		Insertion of Data into Table started!!!!
+2020-02-17/19:09:07		Insertion in Table completed!!!
+2020-02-17/19:09:08		Deleting Good Data Folder!!!
+2020-02-17/19:09:09		Good_Data folder deleted!!!
+2020-02-17/19:09:09		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-17/19:09:09		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-17/19:09:09		Validation Operation completed!!
+2020-02-17/19:09:09		Extracting csv file from table
+2020-02-17/23:01:04		Start of Validation on files for prediction!!
+2020-02-17/23:01:06		Raw Data Validation Complete!!
+2020-02-17/23:01:06		Starting Data Transforamtion!!
+2020-02-17/23:01:09		DataTransformation Completed!!!
+2020-02-17/23:01:09		Creating Training_Database and tables on the basis of given schema!!!
+2020-02-17/23:01:11		Table creation Completed!!
+2020-02-17/23:01:11		Insertion of Data into Table started!!!!
+2020-02-17/23:20:32		Insertion in Table completed!!!
+2020-02-17/23:20:32		Deleting Good Data Folder!!!
+2020-02-17/23:20:32		Good_Data folder deleted!!!
+2020-02-17/23:20:32		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-17/23:20:32		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-17/23:20:32		Validation Operation completed!!
+2020-02-17/23:20:32		Extracting csv file from table
+2021-10-13/15:23:38		Start of Validation on files for training!!
+2021-10-13/15:23:44		Raw Data Validation Complete!!
+2021-10-13/15:23:44		Starting Data Transforamtion!!
+2021-10-13/15:23:49		DataTransformation Completed!!!
+2021-10-13/15:23:49		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/15:29:40		Start of Validation on files for training!!
+2021-10-13/15:29:46		Raw Data Validation Complete!!
+2021-10-13/15:29:46		Starting Data Transforamtion!!
+2021-10-13/15:29:50		DataTransformation Completed!!!
+2021-10-13/15:29:50		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/15:30:34		Start of Validation on files for training!!
+2021-10-13/15:30:40		Raw Data Validation Complete!!
+2021-10-13/15:30:40		Starting Data Transforamtion!!
+2021-10-13/15:30:45		DataTransformation Completed!!!
+2021-10-13/15:30:45		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/15:42:41		Start of Validation on files for training!!
+2021-10-13/15:42:46		Raw Data Validation Complete!!
+2021-10-13/15:42:46		Starting Data Transforamtion!!
+2021-10-13/15:42:51		DataTransformation Completed!!!
+2021-10-13/15:42:51		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/15:43:10		Table creation Completed!!
+2021-10-13/15:43:10		Insertion of Data into Table started!!!!
+2021-10-13/15:48:03		Start of Validation on files for training!!
+2021-10-13/15:48:09		Raw Data Validation Complete!!
+2021-10-13/15:48:09		Starting Data Transforamtion!!
+2021-10-13/15:48:13		DataTransformation Completed!!!
+2021-10-13/15:48:13		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/15:48:33		Table creation Completed!!
+2021-10-13/15:48:33		Insertion of Data into Table started!!!!
+2021-10-13/15:51:31		Start of Validation on files for training!!
+2021-10-13/15:51:36		Raw Data Validation Complete!!
+2021-10-13/15:51:36		Starting Data Transforamtion!!
+2021-10-13/15:51:41		DataTransformation Completed!!!
+2021-10-13/15:51:41		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/15:51:59		Table creation Completed!!
+2021-10-13/15:51:59		Insertion of Data into Table started!!!!
+2021-10-13/15:55:43		Start of Validation on files for training!!
+2021-10-13/15:55:48		Raw Data Validation Complete!!
+2021-10-13/15:55:48		Starting Data Transforamtion!!
+2021-10-13/15:55:53		DataTransformation Completed!!!
+2021-10-13/15:55:53		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/15:56:11		Table creation Completed!!
+2021-10-13/15:56:11		Insertion of Data into Table started!!!!
+2021-10-13/16:11:59		Start of Validation on files for training!!
+2021-10-13/16:12:05		Raw Data Validation Complete!!
+2021-10-13/16:12:05		Starting Data Transforamtion!!
+2021-10-13/16:12:10		DataTransformation Completed!!!
+2021-10-13/16:12:10		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/16:26:23		Start of Validation on files for training!!
+2021-10-13/16:26:29		Raw Data Validation Complete!!
+2021-10-13/16:26:29		Starting Data Transforamtion!!
+2021-10-13/16:26:34		DataTransformation Completed!!!
+2021-10-13/16:26:34		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/16:30:30		Start of Validation on files for training!!
+2021-10-13/16:30:36		Raw Data Validation Complete!!
+2021-10-13/16:30:36		Starting Data Transforamtion!!
+2021-10-13/16:30:41		DataTransformation Completed!!!
+2021-10-13/16:30:41		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/16:30:59		Table creation Completed!!
+2021-10-13/16:30:59		Insertion of Data into Table started!!!!
+2021-10-13/16:31:50		Start of Validation on files for training!!
+2021-10-13/16:31:56		Raw Data Validation Complete!!
+2021-10-13/16:31:56		Starting Data Transforamtion!!
+2021-10-13/16:32:01		DataTransformation Completed!!!
+2021-10-13/16:32:01		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/16:32:21		Table creation Completed!!
+2021-10-13/16:32:21		Insertion of Data into Table started!!!!
+2021-10-13/16:32:59		Start of Validation on files for training!!
+2021-10-13/16:33:04		Raw Data Validation Complete!!
+2021-10-13/16:33:04		Starting Data Transforamtion!!
+2021-10-13/16:33:10		DataTransformation Completed!!!
+2021-10-13/16:33:10		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/16:33:29		Table creation Completed!!
+2021-10-13/16:33:29		Insertion of Data into Table started!!!!
+2021-10-13/16:45:19		Start of Validation on files for training!!
+2021-10-13/16:45:19		Raw Data Validation Complete!!
+2021-10-13/16:45:19		Starting Data Transforamtion!!
+2021-10-13/16:45:19		DataTransformation Completed!!!
+2021-10-13/16:45:19		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/16:45:38		Table creation Completed!!
+2021-10-13/16:45:38		Insertion of Data into Table started!!!!
+2021-10-13/16:45:55		Insertion in Table completed!!!
+2021-10-13/16:45:55		Deleting Good Data Folder!!!
+2021-10-13/16:45:20		Start of Validation on files for training!!
+2021-10-13/16:45:20		Raw Data Validation Complete!!
+2021-10-13/16:45:20		Starting Data Transforamtion!!
+2021-10-13/16:45:20		DataTransformation Completed!!!
+2021-10-13/16:45:20		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/16:45:38		Table creation Completed!!
+2021-10-13/16:45:38		Insertion of Data into Table started!!!!
+2021-10-13/16:45:55		Insertion in Table completed!!!
+2021-10-13/16:45:55		Deleting Good Data Folder!!!
+2021-10-13/16:45:55		Good_Data folder deleted!!!
+2021-10-13/16:45:55		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-13/16:45:55		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-13/16:45:55		Validation Operation completed!!
+2021-10-13/16:45:55		Extracting csv file from table
+2021-10-13/16:56:35		Start of Validation on files for training!!
+2021-10-13/16:56:35		Raw Data Validation Complete!!
+2021-10-13/16:56:35		Starting Data Transforamtion!!
+2021-10-13/16:56:35		DataTransformation Completed!!!
+2021-10-13/16:56:35		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/16:56:53		Table creation Completed!!
+2021-10-13/16:56:53		Insertion of Data into Table started!!!!
+2021-10-13/16:57:10		Insertion in Table completed!!!
+2021-10-13/16:57:10		Deleting Good Data Folder!!!
+2021-10-13/16:57:10		Good_Data folder deleted!!!
+2021-10-13/16:57:10		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-13/16:57:10		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-13/16:57:10		Validation Operation completed!!
+2021-10-13/16:57:10		Extracting csv file from table
+2021-10-13/17:03:24		Start of Validation on files for training!!
+2021-10-13/17:03:24		Raw Data Validation Complete!!
+2021-10-13/17:03:24		Starting Data Transforamtion!!
+2021-10-13/17:03:24		DataTransformation Completed!!!
+2021-10-13/17:03:24		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/17:03:41		Table creation Completed!!
+2021-10-13/17:03:41		Insertion of Data into Table started!!!!
+2021-10-13/17:03:58		Insertion in Table completed!!!
+2021-10-13/17:03:58		Deleting Good Data Folder!!!
+2021-10-13/17:03:58		Good_Data folder deleted!!!
+2021-10-13/17:03:58		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-13/17:03:58		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-13/17:03:58		Validation Operation completed!!
+2021-10-13/17:03:58		Extracting csv file from table
+2021-10-13/17:12:00		Start of Validation on files for training!!
+2021-10-13/17:12:00		Raw Data Validation Complete!!
+2021-10-13/17:12:00		Starting Data Transforamtion!!
+2021-10-13/17:12:00		DataTransformation Completed!!!
+2021-10-13/17:12:00		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/17:12:19		Table creation Completed!!
+2021-10-13/17:12:19		Insertion of Data into Table started!!!!
+2021-10-13/17:12:36		Insertion in Table completed!!!
+2021-10-13/17:12:36		Deleting Good Data Folder!!!
+2021-10-13/17:12:36		Good_Data folder deleted!!!
+2021-10-13/17:12:36		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-13/17:12:36		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-13/17:12:36		Validation Operation completed!!
+2021-10-13/17:12:36		Extracting csv file from table
+2021-10-13/17:28:15		Start of Validation on files for training!!
+2021-10-13/17:28:15		Raw Data Validation Complete!!
+2021-10-13/17:28:15		Starting Data Transforamtion!!
+2021-10-13/17:28:15		DataTransformation Completed!!!
+2021-10-13/17:28:15		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/17:28:33		Table creation Completed!!
+2021-10-13/17:28:33		Insertion of Data into Table started!!!!
+2021-10-13/17:28:50		Insertion in Table completed!!!
+2021-10-13/17:28:50		Deleting Good Data Folder!!!
+2021-10-13/17:28:50		Good_Data folder deleted!!!
+2021-10-13/17:28:50		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-13/17:28:50		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-13/17:28:50		Validation Operation completed!!
+2021-10-13/17:28:50		Extracting csv file from table
+2021-10-13/17:31:21		Start of Validation on files for training!!
+2021-10-13/17:31:21		Raw Data Validation Complete!!
+2021-10-13/17:31:21		Starting Data Transforamtion!!
+2021-10-13/17:31:21		DataTransformation Completed!!!
+2021-10-13/17:31:21		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/17:31:40		Table creation Completed!!
+2021-10-13/17:31:40		Insertion of Data into Table started!!!!
+2021-10-13/17:31:56		Insertion in Table completed!!!
+2021-10-13/17:31:56		Deleting Good Data Folder!!!
+2021-10-13/17:31:56		Good_Data folder deleted!!!
+2021-10-13/17:31:56		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-13/17:31:56		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-13/17:31:56		Validation Operation completed!!
+2021-10-13/17:31:56		Extracting csv file from table
+2021-10-13/17:33:54		Start of Validation on files for training!!
+2021-10-13/17:33:54		Raw Data Validation Complete!!
+2021-10-13/17:33:54		Starting Data Transforamtion!!
+2021-10-13/17:33:54		DataTransformation Completed!!!
+2021-10-13/17:33:54		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/17:34:13		Table creation Completed!!
+2021-10-13/17:34:13		Insertion of Data into Table started!!!!
+2021-10-13/17:34:29		Insertion in Table completed!!!
+2021-10-13/17:34:29		Deleting Good Data Folder!!!
+2021-10-13/17:34:29		Good_Data folder deleted!!!
+2021-10-13/17:34:29		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-13/17:34:29		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-13/17:34:29		Validation Operation completed!!
+2021-10-13/17:34:29		Extracting csv file from table
+2021-10-13/17:40:34		Start of Validation on files for training!!
+2021-10-13/17:40:34		Raw Data Validation Complete!!
+2021-10-13/17:40:34		Starting Data Transforamtion!!
+2021-10-13/17:40:34		DataTransformation Completed!!!
+2021-10-13/17:40:34		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/17:40:55		Table creation Completed!!
+2021-10-13/17:40:55		Insertion of Data into Table started!!!!
+2021-10-13/17:41:14		Insertion in Table completed!!!
+2021-10-13/17:41:14		Deleting Good Data Folder!!!
+2021-10-13/17:41:14		Good_Data folder deleted!!!
+2021-10-13/17:41:14		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-13/17:41:14		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-13/17:41:14		Validation Operation completed!!
+2021-10-13/17:41:14		Extracting csv file from table
+2021-10-13/17:59:00		Start of Validation on files for training!!
+2021-10-13/17:59:00		Raw Data Validation Complete!!
+2021-10-13/17:59:00		Starting Data Transforamtion!!
+2021-10-13/17:59:00		DataTransformation Completed!!!
+2021-10-13/17:59:00		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/17:59:20		Table creation Completed!!
+2021-10-13/17:59:20		Insertion of Data into Table started!!!!
+2021-10-13/17:59:38		Insertion in Table completed!!!
+2021-10-13/17:59:38		Deleting Good Data Folder!!!
+2021-10-13/17:59:38		Good_Data folder deleted!!!
+2021-10-13/17:59:38		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-13/17:59:38		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-13/17:59:38		Validation Operation completed!!
+2021-10-13/17:59:38		Extracting csv file from table
+2021-10-13/18:00:27		Start of Validation on files for training!!
+2021-10-13/18:00:27		Raw Data Validation Complete!!
+2021-10-13/18:00:27		Starting Data Transforamtion!!
+2021-10-13/18:00:27		DataTransformation Completed!!!
+2021-10-13/18:00:27		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-13/18:00:47		Table creation Completed!!
+2021-10-13/18:00:47		Insertion of Data into Table started!!!!
+2021-10-13/18:01:06		Insertion in Table completed!!!
+2021-10-13/18:01:06		Deleting Good Data Folder!!!
+2021-10-13/18:01:06		Good_Data folder deleted!!!
+2021-10-13/18:01:06		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-13/18:01:06		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-13/18:01:06		Validation Operation completed!!
+2021-10-13/18:01:06		Extracting csv file from table
+2021-10-18/13:54:52		Start of Validation on files for training!!
+2021-10-18/13:54:54		Raw Data Validation Complete!!
+2021-10-18/13:54:54		Starting Data Transforamtion!!
+2021-10-18/13:54:54		DataTransformation Completed!!!
+2021-10-18/13:54:54		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-18/13:55:15		Table creation Completed!!
+2021-10-18/13:55:15		Insertion of Data into Table started!!!!
+2021-10-18/13:55:32		Insertion in Table completed!!!
+2021-10-18/13:55:32		Deleting Good Data Folder!!!
+2021-10-18/13:55:32		Good_Data folder deleted!!!
+2021-10-18/13:55:32		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-18/13:55:32		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-18/13:55:32		Validation Operation completed!!
+2021-10-18/13:55:32		Extracting csv file from table
+2021-10-18/13:58:02		Start of Validation on files for training!!
+2021-10-18/13:58:02		Raw Data Validation Complete!!
+2021-10-18/13:58:02		Starting Data Transforamtion!!
+2021-10-18/13:58:03		DataTransformation Completed!!!
+2021-10-18/13:58:03		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-18/13:58:21		Table creation Completed!!
+2021-10-18/13:58:21		Insertion of Data into Table started!!!!
+2021-10-18/13:58:39		Insertion in Table completed!!!
+2021-10-18/13:58:39		Deleting Good Data Folder!!!
+2021-10-18/13:58:39		Good_Data folder deleted!!!
+2021-10-18/13:58:39		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-18/13:58:39		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-18/13:58:39		Validation Operation completed!!
+2021-10-18/13:58:39		Extracting csv file from table
+2021-10-18/14:05:21		Start of Validation on files for training!!
+2021-10-18/14:05:21		Raw Data Validation Complete!!
+2021-10-18/14:05:21		Starting Data Transforamtion!!
+2021-10-18/14:05:21		DataTransformation Completed!!!
+2021-10-18/14:05:21		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-18/14:05:40		Table creation Completed!!
+2021-10-18/14:05:40		Insertion of Data into Table started!!!!
+2021-10-18/14:05:57		Insertion in Table completed!!!
+2021-10-18/14:05:57		Deleting Good Data Folder!!!
+2021-10-18/14:05:57		Good_Data folder deleted!!!
+2021-10-18/14:05:57		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-18/14:05:57		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-18/14:05:57		Validation Operation completed!!
+2021-10-18/14:05:57		Extracting csv file from table
+2021-10-18/14:15:42		Start of Validation on files for training!!
+2021-10-18/14:15:42		Raw Data Validation Complete!!
+2021-10-18/14:15:42		Starting Data Transforamtion!!
+2021-10-18/14:15:42		DataTransformation Completed!!!
+2021-10-18/14:15:42		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-18/14:16:00		Table creation Completed!!
+2021-10-18/14:16:00		Insertion of Data into Table started!!!!
+2021-10-18/14:16:18		Insertion in Table completed!!!
+2021-10-18/14:16:18		Deleting Good Data Folder!!!
+2021-10-18/14:16:18		Good_Data folder deleted!!!
+2021-10-18/14:16:18		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-18/14:16:18		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-18/14:16:18		Validation Operation completed!!
+2021-10-18/14:16:18		Extracting csv file from table
+2021-10-18/14:18:06		Start of Validation on files for training!!
+2021-10-18/14:18:06		Raw Data Validation Complete!!
+2021-10-18/14:18:06		Starting Data Transforamtion!!
+2021-10-18/14:18:06		DataTransformation Completed!!!
+2021-10-18/14:18:06		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-18/14:18:24		Table creation Completed!!
+2021-10-18/14:18:24		Insertion of Data into Table started!!!!
+2021-10-18/14:18:41		Insertion in Table completed!!!
+2021-10-18/14:18:41		Deleting Good Data Folder!!!
+2021-10-18/14:18:41		Good_Data folder deleted!!!
+2021-10-18/14:18:41		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-18/14:18:41		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-18/14:18:41		Validation Operation completed!!
+2021-10-18/14:18:41		Extracting csv file from table
+2021-10-18/14:29:45		Start of Validation on files for training!!
+2021-10-18/14:29:45		Raw Data Validation Complete!!
+2021-10-18/14:29:45		Starting Data Transforamtion!!
+2021-10-18/14:29:45		DataTransformation Completed!!!
+2021-10-18/14:29:45		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-18/14:30:04		Table creation Completed!!
+2021-10-18/14:30:04		Insertion of Data into Table started!!!!
+2021-10-18/14:30:23		Insertion in Table completed!!!
+2021-10-18/14:30:23		Deleting Good Data Folder!!!
+2021-10-18/14:30:23		Good_Data folder deleted!!!
+2021-10-18/14:30:23		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-18/14:30:23		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-18/14:30:23		Validation Operation completed!!
+2021-10-18/14:30:23		Extracting csv file from table
+2021-10-18/14:32:10		Start of Validation on files for training!!
+2021-10-18/14:32:10		Raw Data Validation Complete!!
+2021-10-18/14:32:10		Starting Data Transforamtion!!
+2021-10-18/14:32:10		DataTransformation Completed!!!
+2021-10-18/14:32:10		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-18/14:32:29		Table creation Completed!!
+2021-10-18/14:32:29		Insertion of Data into Table started!!!!
+2021-10-18/14:32:47		Insertion in Table completed!!!
+2021-10-18/14:32:47		Deleting Good Data Folder!!!
+2021-10-18/14:32:47		Good_Data folder deleted!!!
+2021-10-18/14:32:47		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-18/14:32:47		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-18/14:32:47		Validation Operation completed!!
+2021-10-18/14:32:47		Extracting csv file from table
+2021-10-18/14:38:26		Start of Validation on files for training!!
+2021-10-18/14:38:26		Raw Data Validation Complete!!
+2021-10-18/14:38:26		Starting Data Transforamtion!!
+2021-10-18/14:38:26		DataTransformation Completed!!!
+2021-10-18/14:38:26		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-18/14:38:46		Table creation Completed!!
+2021-10-18/14:38:46		Insertion of Data into Table started!!!!
+2021-10-18/14:39:04		Insertion in Table completed!!!
+2021-10-18/14:39:04		Deleting Good Data Folder!!!
+2021-10-18/14:39:04		Good_Data folder deleted!!!
+2021-10-18/14:39:04		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-18/14:39:04		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-18/14:39:04		Validation Operation completed!!
+2021-10-18/14:39:04		Extracting csv file from table
+2021-10-31/12:03:39		Start of Validation on files for training!!
+2021-10-31/12:03:39		Raw Data Validation Complete!!
+2021-10-31/12:03:39		Starting Data Transforamtion!!
+2021-10-31/12:03:39		DataTransformation Completed!!!
+2021-10-31/12:03:39		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-31/12:03:56		Table creation Completed!!
+2021-10-31/12:03:56		Insertion of Data into Table started!!!!
+2021-10-31/12:07:06		Start of Validation on files for training!!
+2021-10-31/12:07:06		Raw Data Validation Complete!!
+2021-10-31/12:07:06		Starting Data Transforamtion!!
+2021-10-31/12:07:06		DataTransformation Completed!!!
+2021-10-31/12:07:06		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-31/12:07:25		Table creation Completed!!
+2021-10-31/12:07:25		Insertion of Data into Table started!!!!
+2021-10-31/12:11:19		Start of Validation on files for training!!
+2021-10-31/12:11:19		Raw Data Validation Complete!!
+2021-10-31/12:11:19		Starting Data Transforamtion!!
+2021-10-31/12:11:19		DataTransformation Completed!!!
+2021-10-31/12:11:19		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-31/12:11:38		Table creation Completed!!
+2021-10-31/12:11:38		Insertion of Data into Table started!!!!
+2021-10-31/12:15:29		Start of Validation on files for training!!
+2021-10-31/12:15:29		Raw Data Validation Complete!!
+2021-10-31/12:15:29		Starting Data Transforamtion!!
+2021-10-31/12:15:30		DataTransformation Completed!!!
+2021-10-31/12:15:30		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-31/12:15:47		Table creation Completed!!
+2021-10-31/12:15:47		Insertion of Data into Table started!!!!
+2021-10-31/12:16:17		Insertion in Table completed!!!
+2021-10-31/12:16:17		Deleting Good Data Folder!!!
+2021-10-31/12:16:17		Good_Data folder deleted!!!
+2021-10-31/12:16:17		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-31/12:16:17		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-31/12:16:17		Validation Operation completed!!
+2021-10-31/12:16:17		Extracting csv file from table
+2021-10-31/12:26:10		Start of Validation on files for training!!
+2021-10-31/12:26:10		Raw Data Validation Complete!!
+2021-10-31/12:26:10		Starting Data Transforamtion!!
+2021-10-31/12:26:10		DataTransformation Completed!!!
+2021-10-31/12:26:10		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-31/12:26:28		Table creation Completed!!
+2021-10-31/12:26:28		Insertion of Data into Table started!!!!
+2021-10-31/12:27:00		Insertion in Table completed!!!
+2021-10-31/12:27:00		Deleting Good Data Folder!!!
+2021-10-31/12:27:00		Good_Data folder deleted!!!
+2021-10-31/12:27:00		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-31/12:27:00		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-31/12:27:00		Validation Operation completed!!
+2021-10-31/12:27:00		Extracting csv file from table
+2021-10-31/12:28:54		Start of Validation on files for training!!
+2021-10-31/12:28:54		Raw Data Validation Complete!!
+2021-10-31/12:28:54		Starting Data Transforamtion!!
+2021-10-31/12:28:54		DataTransformation Completed!!!
+2021-10-31/12:28:54		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-31/12:29:13		Table creation Completed!!
+2021-10-31/12:29:13		Insertion of Data into Table started!!!!
+2021-10-31/12:29:43		Insertion in Table completed!!!
+2021-10-31/12:29:43		Deleting Good Data Folder!!!
+2021-10-31/12:29:43		Good_Data folder deleted!!!
+2021-10-31/12:29:43		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-31/12:29:43		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-31/12:29:43		Validation Operation completed!!
+2021-10-31/12:29:43		Extracting csv file from table
+2021-10-31/12:32:45		Start of Validation on files for training!!
+2021-10-31/12:32:45		Raw Data Validation Complete!!
+2021-10-31/12:32:45		Starting Data Transforamtion!!
+2021-10-31/12:32:45		DataTransformation Completed!!!
+2021-10-31/12:32:45		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-31/12:33:04		Table creation Completed!!
+2021-10-31/12:33:04		Insertion of Data into Table started!!!!
+2021-10-31/12:33:33		Insertion in Table completed!!!
+2021-10-31/12:33:33		Deleting Good Data Folder!!!
+2021-10-31/12:33:33		Good_Data folder deleted!!!
+2021-10-31/12:33:33		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-31/12:33:33		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-31/12:33:33		Validation Operation completed!!
+2021-10-31/12:33:33		Extracting csv file from table
+2021-10-31/12:36:03		Start of Validation on files for training!!
+2021-10-31/12:36:03		Raw Data Validation Complete!!
+2021-10-31/12:36:03		Starting Data Transforamtion!!
+2021-10-31/12:36:03		DataTransformation Completed!!!
+2021-10-31/12:36:03		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-31/12:36:23		Table creation Completed!!
+2021-10-31/12:36:23		Insertion of Data into Table started!!!!
+2021-10-31/12:36:55		Insertion in Table completed!!!
+2021-10-31/12:36:55		Deleting Good Data Folder!!!
+2021-10-31/12:36:55		Good_Data folder deleted!!!
+2021-10-31/12:36:55		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-31/12:36:55		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-31/12:36:55		Validation Operation completed!!
+2021-10-31/12:36:55		Extracting csv file from table
+2021-10-31/12:46:03		Start of Validation on files for training!!
+2021-10-31/12:46:03		Raw Data Validation Complete!!
+2021-10-31/12:46:03		Starting Data Transforamtion!!
+2021-10-31/12:46:03		DataTransformation Completed!!!
+2021-10-31/12:46:03		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-31/12:46:22		Table creation Completed!!
+2021-10-31/12:46:22		Insertion of Data into Table started!!!!
+2021-10-31/12:46:55		Insertion in Table completed!!!
+2021-10-31/12:46:55		Deleting Good Data Folder!!!
+2021-10-31/12:46:55		Good_Data folder deleted!!!
+2021-10-31/12:46:55		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-31/12:46:55		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-31/12:46:55		Validation Operation completed!!
+2021-10-31/12:46:55		Extracting csv file from table
+2021-10-31/12:51:49		Start of Validation on files for training!!
+2021-10-31/12:51:49		Raw Data Validation Complete!!
+2021-10-31/12:51:49		Starting Data Transforamtion!!
+2021-10-31/12:51:49		DataTransformation Completed!!!
+2021-10-31/12:51:49		Creating Training_Database and tables on the basis of given schema!!!
+2021-10-31/12:52:08		Table creation Completed!!
+2021-10-31/12:52:08		Insertion of Data into Table started!!!!
+2021-10-31/12:52:38		Insertion in Table completed!!!
+2021-10-31/12:52:38		Deleting Good Data Folder!!!
+2021-10-31/12:52:38		Good_Data folder deleted!!!
+2021-10-31/12:52:38		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-10-31/12:52:38		Bad files moved to archive!! Bad folder Deleted!!
+2021-10-31/12:52:38		Validation Operation completed!!
+2021-10-31/12:52:38		Extracting csv file from table
+2021-11-02/20:09:25		Start of Validation on files for training!!
+2021-11-02/20:08:54		entered uploadfile_train of gcpBucket.py!!
+2021-11-02/20:08:54		entered delete existing training of driveUpload.py!!
+2021-11-02/20:08:58		entered create training folders of driveUpload.py!!
+2021-11-02/20:09:25		exited uploadfile_train of gcpBucket.py!!
+2021-11-03/13:08:56		Start of Validation on files for training!!
+2021-11-03/13:08:42		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/13:08:42		entered delete existing training of driveUpload.py!!
+2021-11-03/13:08:46		entered create training folders of driveUpload.py!!
+2021-11-03/13:15:02		Start of Validation on files for training!!
+2021-11-03/13:14:48		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/13:14:48		entered delete existing training of driveUpload.py!!
+2021-11-03/13:14:51		entered create training folders of driveUpload.py!!
+2021-11-03/13:17:15		Start of Validation on files for training!!
+2021-11-03/13:16:58		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/13:16:58		entered delete existing training of driveUpload.py!!
+2021-11-03/13:17:02		entered create training folders of driveUpload.py!!
+2021-11-03/13:24:42		Start of Validation on files for training!!
+2021-11-03/13:24:26		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/13:24:26		entered delete existing training of driveUpload.py!!
+2021-11-03/13:24:29		entered create training folders of driveUpload.py!!
+2021-11-03/13:24:39		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/13:27:06		Start of Validation on files for training!!
+2021-11-03/13:26:49		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/13:26:49		entered delete existing training of driveUpload.py!!
+2021-11-03/13:26:53		entered create training folders of driveUpload.py!!
+2021-11-03/13:27:03		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/13:30:45		Start of Validation on files for training!!
+2021-11-03/13:30:29		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/13:30:29		entered delete existing training of driveUpload.py!!
+2021-11-03/13:30:33		entered create training folders of driveUpload.py!!
+2021-11-03/13:30:42		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/13:33:54		Start of Validation on files for training!!
+2021-11-03/13:33:31		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/13:33:31		entered delete existing training of driveUpload.py!!
+2021-11-03/13:33:34		entered create training folders of driveUpload.py!!
+2021-11-03/13:33:46		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/13:33:48		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/13:33:50		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/13:33:54		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/13:33:54		exited uploadfile_train of gcpBucket.py!!
+2021-11-03/13:35:35		Start of Validation on files for training!!
+2021-11-03/13:35:14		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/13:35:14		entered delete existing training of driveUpload.py!!
+2021-11-03/13:35:17		entered create training folders of driveUpload.py!!
+2021-11-03/13:35:27		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/13:35:30		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/13:35:31		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/13:35:35		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/13:35:35		exited uploadfile_train of gcpBucket.py!!
+2021-11-03/13:39:32		Start of Validation on files for training!!
+2021-11-03/13:39:33		Raw Data Validation Complete!!
+2021-11-03/13:39:33		Starting Data Transforamtion!!
+2021-11-03/13:39:33		DataTransformation Completed!!!
+2021-11-03/13:39:33		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-03/13:39:56		Table creation Completed!!
+2021-11-03/13:39:56		Insertion of Data into Table started!!!!
+2021-11-03/13:39:10		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/13:39:10		entered delete existing training of driveUpload.py!!
+2021-11-03/13:39:13		entered create training folders of driveUpload.py!!
+2021-11-03/13:39:26		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/13:39:28		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/13:39:29		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/13:39:32		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/13:39:32		exited uploadfile_train of gcpBucket.py!!
+2021-11-03/13:57:05		Start of Validation on files for training!!
+2021-11-03/13:57:05		Raw Data Validation Complete!!
+2021-11-03/13:57:05		Starting Data Transforamtion!!
+2021-11-03/13:57:05		DataTransformation Completed!!!
+2021-11-03/13:57:05		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-03/13:57:26		Table creation Completed!!
+2021-11-03/13:57:26		Insertion of Data into Table started!!!!
+2021-11-03/13:56:41		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/13:56:41		entered delete existing training of driveUpload.py!!
+2021-11-03/13:56:45		entered create training folders of driveUpload.py!!
+2021-11-03/13:56:57		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/13:57:00		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/13:57:02		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/13:57:05		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/13:57:05		exited uploadfile_train of gcpBucket.py!!
+2021-11-03/14:03:13		Start of Validation on files for training!!
+2021-11-03/14:03:13		Raw Data Validation Complete!!
+2021-11-03/14:03:13		Starting Data Transforamtion!!
+2021-11-03/14:03:13		DataTransformation Completed!!!
+2021-11-03/14:03:13		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-03/14:03:33		Table creation Completed!!
+2021-11-03/14:03:33		Insertion of Data into Table started!!!!
+2021-11-03/14:02:51		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/14:02:51		entered delete existing training of driveUpload.py!!
+2021-11-03/14:02:55		entered create training folders of driveUpload.py!!
+2021-11-03/14:03:06		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/14:03:08		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:03:09		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:03:13		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:03:13		exited uploadfile_train of gcpBucket.py!!
+2021-11-03/14:05:38		Start of Validation on files for training!!
+2021-11-03/14:05:38		Raw Data Validation Complete!!
+2021-11-03/14:05:38		Starting Data Transforamtion!!
+2021-11-03/14:05:38		DataTransformation Completed!!!
+2021-11-03/14:05:38		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-03/14:05:59		Table creation Completed!!
+2021-11-03/14:05:59		Insertion of Data into Table started!!!!
+2021-11-03/14:05:16		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/14:05:16		entered delete existing training of driveUpload.py!!
+2021-11-03/14:05:19		entered create training folders of driveUpload.py!!
+2021-11-03/14:05:31		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/14:05:33		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:05:35		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:05:38		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:05:38		exited uploadfile_train of gcpBucket.py!!
+2021-11-03/14:08:59		Start of Validation on files for training!!
+2021-11-03/14:08:59		Raw Data Validation Complete!!
+2021-11-03/14:08:59		Starting Data Transforamtion!!
+2021-11-03/14:08:59		DataTransformation Completed!!!
+2021-11-03/14:08:59		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-03/14:09:22		Table creation Completed!!
+2021-11-03/14:09:22		Insertion of Data into Table started!!!!
+2021-11-03/14:08:36		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/14:08:36		entered delete existing training of driveUpload.py!!
+2021-11-03/14:08:39		entered create training folders of driveUpload.py!!
+2021-11-03/14:08:55		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/14:08:57		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:13:24		Start of Validation on files for training!!
+2021-11-03/14:13:25		Raw Data Validation Complete!!
+2021-11-03/14:13:25		Starting Data Transforamtion!!
+2021-11-03/14:13:25		DataTransformation Completed!!!
+2021-11-03/14:13:25		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-03/14:13:47		Table creation Completed!!
+2021-11-03/14:13:47		Insertion of Data into Table started!!!!
+2021-11-03/14:12:54		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/14:12:54		entered delete existing training of driveUpload.py!!
+2021-11-03/14:12:58		entered create training folders of driveUpload.py!!
+2021-11-03/14:13:16		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/14:13:18		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:13:20		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:13:24		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:13:24		exited uploadfile_train of gcpBucket.py!!
+2021-11-03/14:31:10		Start of Validation on files for training!!
+2021-11-03/14:31:11		Raw Data Validation Complete!!
+2021-11-03/14:31:11		Starting Data Transforamtion!!
+2021-11-03/14:31:11		DataTransformation Completed!!!
+2021-11-03/14:31:11		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-03/14:31:33		Table creation Completed!!
+2021-11-03/14:31:33		Insertion of Data into Table started!!!!
+2021-11-03/14:30:48		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/14:30:48		entered delete existing training of driveUpload.py!!
+2021-11-03/14:30:52		entered create training folders of driveUpload.py!!
+2021-11-03/14:31:04		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/14:31:06		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:31:08		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:31:10		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:31:10		exited uploadfile_train of gcpBucket.py!!
+2021-11-03/14:33:21		Start of Validation on files for training!!
+2021-11-03/14:33:21		Raw Data Validation Complete!!
+2021-11-03/14:33:21		Starting Data Transforamtion!!
+2021-11-03/14:33:21		DataTransformation Completed!!!
+2021-11-03/14:33:21		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-03/14:33:43		Table creation Completed!!
+2021-11-03/14:33:43		Insertion of Data into Table started!!!!
+2021-11-03/14:32:56		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/14:32:56		entered delete existing training of driveUpload.py!!
+2021-11-03/14:32:59		entered create training folders of driveUpload.py!!
+2021-11-03/14:33:13		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/14:33:16		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:33:17		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:33:21		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:33:21		exited uploadfile_train of gcpBucket.py!!
+2021-11-03/14:39:56		Start of Validation on files for training!!
+2021-11-03/14:39:56		Raw Data Validation Complete!!
+2021-11-03/14:39:56		Starting Data Transforamtion!!
+2021-11-03/14:39:56		DataTransformation Completed!!!
+2021-11-03/14:39:56		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-03/14:40:19		Table creation Completed!!
+2021-11-03/14:40:19		Insertion of Data into Table started!!!!
+2021-11-03/14:50:58		Start of Validation on files for training!!
+2021-11-03/14:50:58		Raw Data Validation Complete!!
+2021-11-03/14:50:58		Starting Data Transforamtion!!
+2021-11-03/14:50:59		DataTransformation Completed!!!
+2021-11-03/14:50:59		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-03/14:51:20		Table creation Completed!!
+2021-11-03/14:51:20		Insertion of Data into Table started!!!!
+2021-11-03/14:50:34		entered uploadfile_train of gcpBucket.py!!
+2021-11-03/14:50:34		entered delete existing training of driveUpload.py!!
+2021-11-03/14:50:38		entered create training folders of driveUpload.py!!
+2021-11-03/14:50:51		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-03/14:50:53		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:50:55		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:50:58		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-03/14:50:58		exited uploadfile_train of gcpBucket.py!!
+2021-11-04/10:53:43		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/10:55:27		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/10:57:29		entered uploadfile_predict of gcpBucket.py!!
+2021-11-04/10:57:58		entered uploadfile_predict of gcpBucket.py!!
+2021-11-04/11:44:29		entered uploadfile_predict of gcpBucket.py!!
+2021-11-04/11:44:30		entered delete existing prediction of driveUpload.py!!
+2021-11-04/11:44:33		entered create prediction folders of driveUpload.py!!
+2021-11-04/11:56:15		entered uploadfile_predict of gcpBucket.py!!
+2021-11-04/11:56:15		entered delete existing prediction of driveUpload.py!!
+2021-11-04/11:56:19		entered create prediction folders of driveUpload.py!!
+2021-11-04/12:05:24		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/12:05:24		entered delete existing prediction of driveUpload.py!!
+2021-11-04/12:05:28		entered create prediction folders of driveUpload.py!!
+2021-11-04/12:05:45		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/12:05:47		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/12:10:41		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/12:10:41		entered delete existing training of driveUpload.py!!
+2021-11-04/12:10:42		entered create training folders of driveUpload.py!!
+2021-11-04/12:10:56		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/12:10:58		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/12:13:00		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/12:13:00		entered delete existing training of driveUpload.py!!
+2021-11-04/12:13:02		entered create training folders of driveUpload.py!!
+2021-11-04/12:13:19		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/12:13:20		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/12:16:23		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/12:16:23		entered delete existing training of driveUpload.py!!
+2021-11-04/12:16:26		entered create training folders of driveUpload.py!!
+2021-11-04/12:16:42		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/12:16:44		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/12:22:04		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/12:22:04		entered delete existing training of driveUpload.py!!
+2021-11-04/12:22:08		entered create training folders of driveUpload.py!!
+2021-11-04/12:22:24		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/12:23:56		Start of Validation on files for training!!
+2021-11-04/12:23:56		Raw Data Validation Complete!!
+2021-11-04/12:23:56		Starting Data Transforamtion!!
+2021-11-04/12:23:56		DataTransformation Completed!!!
+2021-11-04/12:23:56		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/12:24:17		Table creation Completed!!
+2021-11-04/12:24:17		Insertion of Data into Table started!!!!
+2021-11-04/12:24:29		Insertion in Table completed!!!
+2021-11-04/12:24:29		Deleting Good Data Folder!!!
+2021-11-04/12:24:29		Good_Data folder deleted!!!
+2021-11-04/12:24:29		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-11-04/12:24:29		Bad files moved to archive!! Bad folder Deleted!!
+2021-11-04/12:24:29		Validation Operation completed!!
+2021-11-04/12:24:29		Extracting csv file from table
+2021-11-04/12:23:29		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/12:23:29		entered delete existing training of driveUpload.py!!
+2021-11-04/12:23:33		entered create training folders of driveUpload.py!!
+2021-11-04/12:23:48		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/12:23:50		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/12:23:53		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/12:23:56		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/12:23:56		exited uploadfile_train of driveUpload.py!!
+2021-11-04/12:28:14		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/12:28:14		entered delete existing training of driveUpload.py!!
+2021-11-04/12:28:17		entered create training folders of driveUpload.py!!
+2021-11-04/12:28:34		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/12:28:36		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/12:45:24		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/12:45:24		entered delete existing prediction of driveUpload.py!!
+2021-11-04/12:45:27		entered create prediction folders of driveUpload.py!!
+2021-11-04/12:45:44		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/12:45:46		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/12:47:26		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/12:47:26		entered delete existing prediction of driveUpload.py!!
+2021-11-04/12:47:29		entered create prediction folders of driveUpload.py!!
+2021-11-04/12:47:43		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/12:47:44		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/12:52:45		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/12:53:17		Start of Validation on files for training!!
+2021-11-04/12:53:17		Raw Data Validation Complete!!
+2021-11-04/12:53:17		Starting Data Transforamtion!!
+2021-11-04/12:53:17		DataTransformation Completed!!!
+2021-11-04/12:53:17		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/12:53:38		Table creation Completed!!
+2021-11-04/12:53:38		Insertion of Data into Table started!!!!
+2021-11-04/12:53:49		Insertion in Table completed!!!
+2021-11-04/12:53:49		Deleting Good Data Folder!!!
+2021-11-04/12:53:49		Good_Data folder deleted!!!
+2021-11-04/12:53:49		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-11-04/12:53:49		Bad files moved to archive!! Bad folder Deleted!!
+2021-11-04/12:53:49		Validation Operation completed!!
+2021-11-04/12:53:49		Extracting csv file from table
+2021-11-04/13:00:29		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/13:00:29		entered delete existing training of driveUpload.py!!
+2021-11-04/13:00:32		entered create training folders of driveUpload.py!!
+2021-11-04/13:00:38		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/13:00:40		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:02:46		Start of Validation on files for training!!
+2021-11-04/13:02:46		Raw Data Validation Complete!!
+2021-11-04/13:02:46		Starting Data Transforamtion!!
+2021-11-04/13:02:46		DataTransformation Completed!!!
+2021-11-04/13:02:46		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/13:03:07		Table creation Completed!!
+2021-11-04/13:03:07		Insertion of Data into Table started!!!!
+2021-11-04/13:02:33		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/13:02:33		entered delete existing training of driveUpload.py!!
+2021-11-04/13:02:36		entered create training folders of driveUpload.py!!
+2021-11-04/13:02:42		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/13:02:44		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:02:46		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:02:46		exited uploadfile_train of driveUpload.py!!
+2021-11-04/13:09:51		Start of Validation on files for training!!
+2021-11-04/13:09:51		Raw Data Validation Complete!!
+2021-11-04/13:09:51		Starting Data Transforamtion!!
+2021-11-04/13:09:51		DataTransformation Completed!!!
+2021-11-04/13:09:51		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/13:10:13		Table creation Completed!!
+2021-11-04/13:10:13		Insertion of Data into Table started!!!!
+2021-11-04/13:09:37		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/13:09:37		entered delete existing training of driveUpload.py!!
+2021-11-04/13:09:41		entered create training folders of driveUpload.py!!
+2021-11-04/13:09:47		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/13:09:50		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:09:51		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:09:51		exited uploadfile_train of driveUpload.py!!
+2021-11-04/13:18:42		Start of Validation on files for training!!
+2021-11-04/13:18:42		Raw Data Validation Complete!!
+2021-11-04/13:18:42		Starting Data Transforamtion!!
+2021-11-04/13:18:42		DataTransformation Completed!!!
+2021-11-04/13:18:42		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/13:19:05		Table creation Completed!!
+2021-11-04/13:19:05		Insertion of Data into Table started!!!!
+2021-11-04/13:18:28		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/13:18:28		entered delete existing training of driveUpload.py!!
+2021-11-04/13:18:32		entered create training folders of driveUpload.py!!
+2021-11-04/13:18:39		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/13:18:41		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:18:42		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:18:42		exited uploadfile_train of driveUpload.py!!
+2021-11-04/13:21:13		Start of Validation on files for training!!
+2021-11-04/13:21:13		Raw Data Validation Complete!!
+2021-11-04/13:21:13		Starting Data Transforamtion!!
+2021-11-04/13:21:13		DataTransformation Completed!!!
+2021-11-04/13:21:13		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/13:21:33		Table creation Completed!!
+2021-11-04/13:21:33		Insertion of Data into Table started!!!!
+2021-11-04/13:20:59		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/13:20:59		entered delete existing training of driveUpload.py!!
+2021-11-04/13:21:02		entered create training folders of driveUpload.py!!
+2021-11-04/13:21:09		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/13:21:11		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:21:13		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:21:13		exited uploadfile_train of driveUpload.py!!
+2021-11-04/13:26:02		Start of Validation on files for training!!
+2021-11-04/13:26:02		Raw Data Validation Complete!!
+2021-11-04/13:26:02		Starting Data Transforamtion!!
+2021-11-04/13:26:02		DataTransformation Completed!!!
+2021-11-04/13:26:02		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/13:26:23		Table creation Completed!!
+2021-11-04/13:26:23		Insertion of Data into Table started!!!!
+2021-11-04/13:25:48		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/13:25:48		entered delete existing training of driveUpload.py!!
+2021-11-04/13:25:52		entered create training folders of driveUpload.py!!
+2021-11-04/13:25:58		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/13:26:00		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:26:02		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:26:02		exited uploadfile_train of driveUpload.py!!
+2021-11-04/13:28:40		Start of Validation on files for training!!
+2021-11-04/13:28:40		Raw Data Validation Complete!!
+2021-11-04/13:28:40		Starting Data Transforamtion!!
+2021-11-04/13:28:40		DataTransformation Completed!!!
+2021-11-04/13:28:40		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/13:29:00		Table creation Completed!!
+2021-11-04/13:29:00		Insertion of Data into Table started!!!!
+2021-11-04/13:28:27		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/13:28:27		entered delete existing training of driveUpload.py!!
+2021-11-04/13:28:30		entered create training folders of driveUpload.py!!
+2021-11-04/13:28:36		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/13:28:38		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:28:40		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:28:40		exited uploadfile_train of driveUpload.py!!
+2021-11-04/13:31:57		Start of Validation on files for training!!
+2021-11-04/13:31:57		Raw Data Validation Complete!!
+2021-11-04/13:31:57		Starting Data Transforamtion!!
+2021-11-04/13:31:57		DataTransformation Completed!!!
+2021-11-04/13:31:57		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/13:32:18		Table creation Completed!!
+2021-11-04/13:32:18		Insertion of Data into Table started!!!!
+2021-11-04/13:31:43		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/13:31:43		entered delete existing training of driveUpload.py!!
+2021-11-04/13:31:48		entered create training folders of driveUpload.py!!
+2021-11-04/13:31:53		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/13:31:55		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:31:57		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:31:57		exited uploadfile_train of driveUpload.py!!
+2021-11-04/13:34:43		Start of Validation on files for training!!
+2021-11-04/13:34:44		Raw Data Validation Complete!!
+2021-11-04/13:34:44		Starting Data Transforamtion!!
+2021-11-04/13:34:44		DataTransformation Completed!!!
+2021-11-04/13:34:44		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/13:35:03		Table creation Completed!!
+2021-11-04/13:35:03		Insertion of Data into Table started!!!!
+2021-11-04/13:34:31		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/13:34:31		entered delete existing training of driveUpload.py!!
+2021-11-04/13:34:34		entered create training folders of driveUpload.py!!
+2021-11-04/13:34:40		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/13:34:42		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:34:43		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:34:43		exited uploadfile_train of driveUpload.py!!
+2021-11-04/13:49:37		Start of Validation on files for training!!
+2021-11-04/13:49:37		Raw Data Validation Complete!!
+2021-11-04/13:49:37		Starting Data Transforamtion!!
+2021-11-04/13:49:37		DataTransformation Completed!!!
+2021-11-04/13:49:37		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/13:49:57		Table creation Completed!!
+2021-11-04/13:49:57		Insertion of Data into Table started!!!!
+2021-11-04/13:50:40		Insertion in Table completed!!!
+2021-11-04/13:50:40		Deleting Good Data Folder!!!
+2021-11-04/13:50:40		Good_Data folder deleted!!!
+2021-11-04/13:50:40		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-11-04/13:50:40		Bad files moved to archive!! Bad folder Deleted!!
+2021-11-04/13:50:40		Validation Operation completed!!
+2021-11-04/13:50:40		Extracting csv file from table
+2021-11-04/13:49:23		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/13:49:23		entered delete existing training of driveUpload.py!!
+2021-11-04/13:49:27		entered create training folders of driveUpload.py!!
+2021-11-04/13:49:33		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/13:49:35		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:49:37		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/13:49:37		exited uploadfile_train of driveUpload.py!!
+2021-11-04/14:01:42		Start of Validation on files for training!!
+2021-11-04/14:01:42		Raw Data Validation Complete!!
+2021-11-04/14:01:42		Starting Data Transforamtion!!
+2021-11-04/14:01:42		DataTransformation Completed!!!
+2021-11-04/14:01:42		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/14:02:05		Table creation Completed!!
+2021-11-04/14:02:05		Insertion of Data into Table started!!!!
+2021-11-04/14:03:13		Insertion in Table completed!!!
+2021-11-04/14:03:13		Deleting Good Data Folder!!!
+2021-11-04/14:03:13		Good_Data folder deleted!!!
+2021-11-04/14:03:13		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-11-04/14:03:13		Bad files moved to archive!! Bad folder Deleted!!
+2021-11-04/14:03:13		Validation Operation completed!!
+2021-11-04/14:03:13		Extracting csv file from table
+2021-11-04/14:01:31		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/14:01:31		entered delete existing training of driveUpload.py!!
+2021-11-04/14:01:33		entered create training folders of driveUpload.py!!
+2021-11-04/14:01:39		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/14:01:41		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/14:01:42		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/14:01:42		exited uploadfile_train of driveUpload.py!!
+2021-11-04/14:06:26		Start of Validation on files for training!!
+2021-11-04/14:06:26		Raw Data Validation Complete!!
+2021-11-04/14:06:26		Starting Data Transforamtion!!
+2021-11-04/14:06:26		DataTransformation Completed!!!
+2021-11-04/14:06:26		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/14:06:48		Table creation Completed!!
+2021-11-04/14:06:48		Insertion of Data into Table started!!!!
+2021-11-04/14:07:33		Insertion in Table completed!!!
+2021-11-04/14:07:33		Deleting Good Data Folder!!!
+2021-11-04/14:07:33		Good_Data folder deleted!!!
+2021-11-04/14:07:33		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-11-04/14:07:33		Bad files moved to archive!! Bad folder Deleted!!
+2021-11-04/14:07:33		Validation Operation completed!!
+2021-11-04/14:07:33		Extracting csv file from table
+2021-11-04/14:06:12		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/14:06:12		entered delete existing training of driveUpload.py!!
+2021-11-04/14:06:15		entered create training folders of driveUpload.py!!
+2021-11-04/14:06:23		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/14:06:24		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/14:06:26		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/14:06:26		exited uploadfile_train of driveUpload.py!!
+2021-11-04/14:14:26		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/14:14:26		entered delete existing training of driveUpload.py!!
+2021-11-04/14:14:29		entered create training folders of driveUpload.py!!
+2021-11-04/14:14:35		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/14:16:28		Start of Validation on files for training!!
+2021-11-04/14:16:28		Raw Data Validation Complete!!
+2021-11-04/14:16:28		Starting Data Transforamtion!!
+2021-11-04/14:16:28		DataTransformation Completed!!!
+2021-11-04/14:16:28		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/14:16:50		Table creation Completed!!
+2021-11-04/14:16:50		Insertion of Data into Table started!!!!
+2021-11-04/14:17:36		Insertion in Table completed!!!
+2021-11-04/14:17:36		Deleting Good Data Folder!!!
+2021-11-04/14:17:36		Good_Data folder deleted!!!
+2021-11-04/14:17:36		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-11-04/14:17:36		Bad files moved to archive!! Bad folder Deleted!!
+2021-11-04/14:17:36		Validation Operation completed!!
+2021-11-04/14:17:36		Extracting csv file from table
+2021-11-04/14:16:15		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/14:16:15		entered delete existing training of driveUpload.py!!
+2021-11-04/14:16:18		entered create training folders of driveUpload.py!!
+2021-11-04/14:16:24		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/14:16:27		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/14:16:28		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/14:16:28		exited uploadfile_train of driveUpload.py!!
+2021-11-04/14:26:40		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/14:27:11		Start of Validation on files for training!!
+2021-11-04/14:27:11		Raw Data Validation Complete!!
+2021-11-04/14:27:11		Starting Data Transforamtion!!
+2021-11-04/14:27:11		DataTransformation Completed!!!
+2021-11-04/14:27:11		Creating Training_Database and tables on the basis of given schema!!!
+2021-11-04/14:27:34		Table creation Completed!!
+2021-11-04/14:27:34		Insertion of Data into Table started!!!!
+2021-11-04/14:28:04		Insertion in Table completed!!!
+2021-11-04/14:28:04		Deleting Good Data Folder!!!
+2021-11-04/14:28:04		Good_Data folder deleted!!!
+2021-11-04/14:28:04		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-11-04/14:28:04		Bad files moved to archive!! Bad folder Deleted!!
+2021-11-04/14:28:04		Validation Operation completed!!
+2021-11-04/14:28:04		Extracting csv file from table
+2021-11-04/14:26:56		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/14:26:56		entered delete existing training of driveUpload.py!!
+2021-11-04/14:27:00		entered create training folders of driveUpload.py!!
+2021-11-04/14:27:07		entered uploadfile_train phase2 of gcpBucket.py!!
+2021-11-04/14:27:09		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/14:27:11		entered uploadfile_train phase2 loop of gcpBucket.py!!
+2021-11-04/14:27:11		exited uploadfile_train of driveUpload.py!!
+2021-11-04/14:32:15		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/14:32:15		entered delete existing prediction of driveUpload.py!!
+2021-11-04/14:32:18		entered create prediction folders of driveUpload.py!!
+2021-11-04/14:32:25		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/14:32:27		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/14:32:29		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/14:32:29		exited uploadfile_predict of driveUpload.py!!
+2021-11-04/14:36:49		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/14:36:49		entered delete existing prediction of driveUpload.py!!
+2021-11-04/14:36:51		entered create prediction folders of driveUpload.py!!
+2021-11-04/14:36:58		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/14:37:00		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/14:37:01		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/14:37:01		exited uploadfile_predict of driveUpload.py!!
+2021-11-04/14:44:49		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/14:45:13		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/14:45:13		entered delete existing prediction of driveUpload.py!!
+2021-11-04/14:45:16		entered create prediction folders of driveUpload.py!!
+2021-11-04/14:45:23		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/14:45:25		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/14:45:26		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/14:45:26		exited uploadfile_predict of driveUpload.py!!
+2021-11-04/14:47:37		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/14:47:37		entered delete existing prediction of driveUpload.py!!
+2021-11-04/14:47:39		entered create prediction folders of driveUpload.py!!
+2021-11-04/14:47:46		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/14:47:48		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/14:47:49		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/14:47:49		exited uploadfile_predict of driveUpload.py!!
+2021-11-04/14:56:37		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/14:56:37		entered delete existing prediction of driveUpload.py!!
+2021-11-04/14:56:40		entered create prediction folders of driveUpload.py!!
+2021-11-04/14:56:46		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/14:56:48		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/14:56:49		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/14:56:49		exited uploadfile_predict of driveUpload.py!!
+2021-11-04/15:01:55		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/15:01:55		entered delete existing prediction of driveUpload.py!!
+2021-11-04/15:01:57		entered create prediction folders of driveUpload.py!!
+2021-11-04/15:02:03		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/15:02:05		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/15:02:07		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/15:02:07		exited uploadfile_predict of driveUpload.py!!
+2021-11-04/15:14:23		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/15:14:23		entered delete existing prediction of driveUpload.py!!
+2021-11-04/15:14:26		entered create prediction folders of driveUpload.py!!
+2021-11-04/15:14:30		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/15:14:32		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/15:14:32		exited uploadfile_predict of driveUpload.py!!
+2021-11-04/15:26:20		entered upload_prediction of driveUpload.py!!
+2021-11-04/15:30:22		entered upload_prediction of driveUpload.py!!
+2021-11-04/15:38:24		entered upload_prediction of driveUpload.py!!
+2021-11-04/15:37:19		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/15:37:19		entered delete existing prediction of driveUpload.py!!
+2021-11-04/15:37:22		entered create prediction folders of driveUpload.py!!
+2021-11-04/15:37:27		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/15:37:29		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/15:37:29		exited uploadfile_predict of driveUpload.py!!
+2021-11-04/15:39:34		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/15:39:34		entered delete existing prediction of driveUpload.py!!
+2021-11-04/15:39:37		entered create prediction folders of driveUpload.py!!
+2021-11-04/15:39:42		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/15:39:44		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/15:39:44		exited uploadfile_predict of driveUpload.py!!
+2021-11-04/15:50:37		entered upload_prediction of driveUpload.py!!
+2021-11-04/15:49:39		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/15:49:39		entered delete existing prediction of driveUpload.py!!
+2021-11-04/15:49:41		entered create prediction folders of driveUpload.py!!
+2021-11-04/15:49:45		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/15:49:47		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/15:49:47		exited uploadfile_predict of driveUpload.py!!
+2021-11-04/15:53:28		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/15:53:28		entered delete existing prediction of driveUpload.py!!
+2021-11-04/15:53:31		entered create prediction folders of driveUpload.py!!
+2021-11-04/15:53:35		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/15:53:37		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/15:53:37		exited uploadfile_predict of driveUpload.py!!
+2021-11-04/15:56:25		entered upload_prediction of driveUpload.py!!
+2021-11-04/15:55:27		entered uploadfile_train of gcpBucket.py!!
+2021-11-04/15:55:27		entered delete existing prediction of driveUpload.py!!
+2021-11-04/15:55:30		entered create prediction folders of driveUpload.py!!
+2021-11-04/15:55:34		entered uploadfile_predict phase2 of gcpBucket.py!!
+2021-11-04/15:55:36		entered uploadfile_prediction phase2 loop of gcpBucket.py!!
+2021-11-04/15:55:36		exited uploadfile_predict of driveUpload.py!!
