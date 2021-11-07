@@ -7,9 +7,6 @@ import json
 import shutil
 import pandas as pd
 from application_logging.logger import App_Logger
-from driveUpload import upload_training
-from Google import Create_Service
-
 
 
 class Raw_Data_validation:
