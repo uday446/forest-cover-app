@@ -69,7 +69,8 @@ class upload_training:
 
             timestr = time.strftime("%Y%m%d_%H%M%S")
 
-            df.to_csv(os.getcwd() + "/Training_Batch_Files/" + "forest_cover_" + timestr + ".csv", index=None,
+            path = os.path.join(os.getcwd(), "/Prediction_Batch_Files/")
+            df.to_csv(path+"forest_cover.csv", index=None,
                       header=True)
 
             self.log_writer.log(self.file_object, 'exited uploadfile_predict of driveUpload.py!!')
