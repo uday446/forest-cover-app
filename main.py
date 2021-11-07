@@ -1,5 +1,6 @@
 from wsgiref import simple_server
 from flask import Flask, request, render_template
+from flask_cors import CORS,cross_origin
 from flask import Response
 import os
 from prediction_Validation_Insertion import pred_validation
@@ -15,16 +16,16 @@ os.putenv('LC_ALL', 'en_US.UTF-8')
 app = Flask(__name__)
 
 dashboard.bind(app)
-
+CORS(app)
 
 
 @app.route("/", methods=['GET'])
-
+@cross_origin()
 def home():
     return render_template('index.html')
 
 @app.route("/predict", methods=['POST'])
-
+@cross_origin()
 def predictRouteClient():
     try:
         if request.form is not None:
@@ -57,7 +58,7 @@ def predictRouteClient():
 
 
 @app.route("/train", methods=['POST'])
-
+@cross_origin()
 def trainRouteClient():
 
     try:
