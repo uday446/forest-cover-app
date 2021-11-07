@@ -1,10 +1,10 @@
-From continuumio/anaconda3:2020.11
+FROM python:3.6
 
-COPY requirements.txt ./requirements.txt
+WORKDIR /forest_cover_Classification
+COPY requirements.txt requirements.txt
 
 RUN pip install -r requirements.txt
 
-COPY . /forest_cover_Classification
-WORKDIR /forest_cover_Classification
+COPY . .
 
 ENTRYPOINT ["python", "main.py"]
