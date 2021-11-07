@@ -20,11 +20,11 @@ class upload_training:
         try:
             self.log_writer.log(self.file_object, 'entered uploadfile_train of driveUpload.py!!')
 
-            if os.path.isdir(os.getcwd()+self.path):
-                shutil.rmtree(os.getcwd()+self.path)
+            if os.path.isdir(os.getcwd()+ "/Training_Batch_Files"):
+                shutil.rmtree(os.getcwd()+ "/Training_Batch_Files")
 
-            if not os.path.isdir(os.getcwd()+self.path):
-                os.makedirs(os.getcwd()+self.path)
+            if not os.path.isdir(os.getcwd()+ "/Training_Batch_Files"):
+                os.makedirs(os.getcwd()+ "/Training_Batch_Files")
 
             username = os.environ.get("GITUSER")
             # Personal Access Token (PAO) from your GitHub account
@@ -48,13 +48,13 @@ class upload_training:
 
     def uploadfile_predict(self):
         try:
-            self.log_writer.log(self.file_object2, 'entered uploadfile_train of driveUpload.py!!')
+            self.log_writer.log(self.file_object2, 'entered uploadfile_predict of driveUpload.py!!')
 
-            if os.path.isdir(os.getcwd() + self.path):
-                shutil.rmtree(os.getcwd() + self.path)
+            if os.path.isdir(os.getcwd() + "/Prediction_Batch_Files"):
+                shutil.rmtree(os.getcwd() + "/Prediction_Batch_Files")
 
-            if not os.path.isdir(os.getcwd() + self.path):
-                os.makedirs(os.getcwd() + self.path)
+            if not os.path.isdir(os.getcwd() + "/Prediction_Batch_Files"):
+                os.makedirs(os.getcwd() + "/Prediction_Batch_Files")
 
             username = os.environ.get("GITUSER")
             # Personal Access Token (PAO) from your GitHub account
