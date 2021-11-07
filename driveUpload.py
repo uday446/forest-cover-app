@@ -3,15 +3,8 @@ import requests
 import io
 import time
 from application_logging import logger
-from os import listdir
-import os
 from github import Github
 import os
-from flask import Response
-from os.path import isfile, join
-from Google import Create_Service
-from googleapiclient.http import MediaFileUpload, MediaIoBaseDownload
-from io import BytesIO
 import pandas as pd
 
 class upload_training:
