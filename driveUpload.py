@@ -53,8 +53,9 @@ class upload_training:
             if os.path.isdir(os.getcwd() + "/Prediction_Batch_Files"):
                 shutil.rmtree(os.getcwd() + "/Prediction_Batch_Files")
 
-            if not os.path.isdir(os.getcwd() + "/Prediction_Batch_Files"):
-                os.makedirs(os.getcwd() + "/Prediction_Batch_Files", exist_ok=True)
+            if not os.path.exists(os.getcwd() + "/Prediction_Batch_Files"):
+                #os.makedirs(os.getcwd() + "/Prediction_Batch_Files", exist_ok=True)
+                os.mkdir(os.path.join(os.getcwd(), "/Prediction_Batch_Files"))
 
             username = os.environ.get("GITUSER")
             # Personal Access Token (PAO) from your GitHub account
