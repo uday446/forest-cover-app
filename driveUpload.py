@@ -78,6 +78,7 @@ class upload_training:
             path = "Prediction_Batch_Files/"+name
 
             df.to_csv(name, index=None, header=True, mode='w')
+            self.change_permissions_recursive("Prediction_Batch_Files","0o777")
             shutil.copy(name, "Prediction_Batch_Files")
 
             self.log_writer.log(self.file_object, 'exited uploadfile_predict of driveUpload.py!!')
@@ -118,5 +119,10 @@ class upload_training:
 
         except Exception as e:
             return e
+
+        def change_permissions_recursive(path, mode):
+            for root, dirs, files in os.walk(path, topdown=False):
+                for dir in [os.path.join(root, d) for d in dirs]:
+                    os.chmod(dir, mode)
 
 
