@@ -54,7 +54,7 @@ class upload_training:
                 shutil.rmtree(os.getcwd() + "/Prediction_Batch_Files")
 
             if not os.path.isdir(os.getcwd() + "/Prediction_Batch_Files"):
-                os.makedirs(os.getcwd() + "/Prediction_Batch_Files")
+                os.makedirs(os.getcwd() + "/Prediction_Batch_Files", exist_ok=True)
 
             username = os.environ.get("GITUSER")
             # Personal Access Token (PAO) from your GitHub account
@@ -78,7 +78,7 @@ class upload_training:
             self.log_writer.log(self.file_object, 'exited uploadfile_predict of driveUpload.py!!')
         except Exception as e:
             print(e)
-            raise e+"   path"
+            raise e
 
     def upload_Prediction(self):
         try:
