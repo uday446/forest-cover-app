@@ -77,8 +77,8 @@ class upload_training:
             #os.mkdir("Prediction_Batch_Files")
             path = "Prediction_Batch_Files/"+name
 
-            df.to_csv("Input.csv", index=None, header=True, mode='w')
-            shutil.move("Input.csv", "Prediction_Batch_Files/"+name)
+            df.to_csv(name, index=None, header=True, mode='w')
+            shutil.move(name, "Prediction_Batch_Files")
 
             self.log_writer.log(self.file_object, 'exited uploadfile_predict of driveUpload.py!!')
         except Exception as e:
