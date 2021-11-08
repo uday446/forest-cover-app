@@ -36,7 +36,7 @@ def predictRouteClient():
             predict_upload = upload_training(path)
             predict_upload.uploadfile_predict()
 
-            path = os.getcwd() + '/Prediction_Batch_Files'
+            path = 'Prediction_Batch_Files/'
 
             pred_val = pred_validation(path) #object initialization
 
