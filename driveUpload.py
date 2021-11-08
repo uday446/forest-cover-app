@@ -50,12 +50,12 @@ class upload_training:
         try:
             self.log_writer.log(self.file_object2, 'entered uploadfile_predict of driveUpload.py!!')
 
-            if os.path.isdir(os.getcwd() + "/Prediction_Batch_Files"):
-                shutil.rmtree(os.getcwd() + "/Prediction_Batch_Files")
+            if os.path.isdir("Prediction_Batch_Files"):
+                shutil.rmtree("Prediction_Batch_Files")
 
-            if not os.path.exists(os.getcwd() + "/Prediction_Batch_Files"):
+            if not os.path.exists("Prediction_Batch_Files"):
                 #os.makedirs(os.getcwd() + "/Prediction_Batch_Files", exist_ok=True)
-                os.mkdir(os.path.join(os.getcwd(), "/Prediction_Batch_Files"))
+                os.mkdir("Prediction_Batch_Files")
 
             username = os.environ.get("GITUSER")
             # Personal Access Token (PAO) from your GitHub account
@@ -71,10 +71,10 @@ class upload_training:
             timestr = time.strftime("%Y%m%d_%H%M%S")
 
             name = "forest_cover_" + timestr + ".csv"
-            path = os.path.join(os.getcwd(),"/Prediction_Batch_Files/")
-            path = os.path.join(path, name)
+            #path = os.path.join(os.getcwd(),"/Prediction_Batch_Files/")
+            #path = os.path.join(path, name)
 
-            df.to_csv(path, index=None, header=True, mode='w')
+            df.to_csv("Prediction_Batch_Files/"+name, index=None, header=True, mode='w')
 
             self.log_writer.log(self.file_object, 'exited uploadfile_predict of driveUpload.py!!')
         except Exception as e:
