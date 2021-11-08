@@ -120,7 +120,7 @@ class upload_training:
         except Exception as e:
             return e
 
-    def change_permissions_recursive(pat, mode):
+    def change_permissions_recursive(self,pat, mode):
         for root, dirs, files in os.walk(pat, topdown=False):
             for dir in [os.path.join(root, d) for d in dirs]:
                 os.chmod(dir, mode)
