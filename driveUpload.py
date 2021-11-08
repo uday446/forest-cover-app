@@ -6,6 +6,7 @@ from application_logging import logger
 from github import Github
 import os
 import pandas as pd
+from DataTypeValidation_Insertion_Prediction.DataTypeValidationPrediction import dBOperation
 
 class upload_training:
     def __init__(self, path):
@@ -13,6 +14,7 @@ class upload_training:
         self.file_object = open("Training_Logs/Training_Main_Log.txt", 'a+')
         self.file_object2 = open("Prediction_Logs/Prediction_Log.txt", 'a+')
         self.log_writer = logger.App_Logger()
+        self.dBOperation = dBOperation()
 
 
 
@@ -76,9 +78,13 @@ class upload_training:
 
             #os.mkdir("Prediction_Batch_Files")
             path = "Prediction_Batch_Files/"+name
-            with open(path, 'w', newline='') as file:
-                file.close()
-            df.to_csv(path, index=None, header=True, mode='a+')
+            #with open(path, 'w', newline='') as file:
+                #file.close()
+            #df.to_csv(path, index=None, header=True, mode='a+')
+            column_names = ""
+            self.dBOperation.createTableDb('Prediction', column_names)
+            shutil.move("Prediction_FileFromDB/InputFile.csv" , "Prediction_Batch_Files/"+name)
+
 
             self.log_writer.log(self.file_object, 'exited uploadfile_predict of driveUpload.py!!')
         except Exception as e:
