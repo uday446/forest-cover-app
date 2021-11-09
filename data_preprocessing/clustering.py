@@ -11,7 +11,7 @@ class KMeansClustering:
     """
             This class shall  be used to divide the data into clusters before training.
 
-            Written By: iNeuron Intelligence
+
             Version: 1.0
             Revisions: None
 
@@ -28,7 +28,7 @@ class KMeansClustering:
                         Output: A picture saved to the directory
                         On Failure: Raise Exception
 
-                        Written By: iNeuron Intelligence
+
                         Version: 1.0
                         Revisions: None
 
@@ -64,7 +64,7 @@ class KMeansClustering:
                                 Output: A datframe with cluster column
                                 On Failure: Raise Exception
 
-                                Written By: iNeuron Intelligence
+
                                 Version: 1.0
                                 Revisions: None
 

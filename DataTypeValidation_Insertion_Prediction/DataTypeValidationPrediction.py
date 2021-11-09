@@ -13,7 +13,7 @@ class dBOperation:
     """
           This class shall be used for handling all the SQL operations.
 
-          Written By: iNeuron Intelligence
+
           Version: 1.0
           Revisions: None
 
@@ -34,7 +34,7 @@ class dBOperation:
                         Output: Connection to the DB
                         On Failure: Raise ConnectionError
 
-                         Written By: iNeuron Intelligence
+
                         Version: 1.0
                         Revisions: None
 
@@ -67,7 +67,7 @@ class dBOperation:
            Output: None
            On Failure: Raise Exception
 
-            Written By: iNeuron Intelligence
+
            Version: 1.0
            Revisions: None
 
@@ -86,7 +86,7 @@ class dBOperation:
                     #cur = cur.execute("SELECT name FROM {dbName} WHERE type='table' AND name='Good_Raw_Data'".format(dbName=DatabaseName))
                     conn.execute('ALTER TABLE project.Good_Raw_Data ADD COLUMN "{column_name}" {dataType}'.format(column_name=key,dataType=type))
                 except:
-                    conn.execute('CREATE TABLE IF NOT EXISTS project.Good_Raw_Data (id UUID PRIMARY KEY, elevation INT, aspect INT, slope INT, horizontal_distance_to_hydrology INT, Vertical_Distance_To_Hydrology INT, Horizontal_Distance_To_Roadways INT, Horizontal_Distance_To_Fire_Points INT, wilderness_area1 INT, wilderness_area2 INT, wilderness_area3 INT, wilderness_area4 INT, soil_type_1 INT, soil_type_2 INT, soil_type_3 INT, soil_type_4 INT, soil_type_5 INT, soil_type_6 INT, soil_type_7 INT, soil_type_8 INT, soil_type_9 INT, soil_type_10 INT, soil_type_11 INT, soil_type_12 INT, soil_type_13 INT, soil_type_14 INT, soil_type_15 INT, soil_type_16 INT, soil_type_17 INT, soil_type_18 INT, soil_type_19 INT, soil_type_20 INT, soil_type_21 INT, soil_type_22 INT, soil_type_23 INT, soil_type_24 INT, soil_type_25 INT, soil_type_26 INT, soil_type_27 INT, soil_type_28 INT, soil_type_29 INT, soil_type_30 INT, soil_type_31 INT, soil_type_32 INT, soil_type_33 INT, soil_type_34 INT, soil_type_35 INT, soil_type_36 INT, soil_type_37 INT, soil_type_38 INT, soil_type_39 INT, soil_type_40 INT)'.format(column_name=key, dataType=type))
+                    conn.execute('CREATE TABLE IF NOT EXISTS project.Good_Raw_Data (id UUID PRIMARY KEY, elevation INT, aspect INT, slope INT, horizontal_distance_to_hydrology INT, Vertical_Distance_To_Hydrology INT, Horizontal_Distance_To_Roadways INT, Horizontal_Distance_To_Fire_Points INT, wilderness_area1 INT, wilderness_area2 INT, wilderness_area3 INT, wilderness_area4 INT, soil_type_1 INT, soil_type_2 INT, soil_type_3 INT, soil_type_4 INT, soil_type_5 INT, soil_type_6 INT, soil_type_7 INT, soil_type_8 INT, soil_type_9 INT, soil_type_10 INT, soil_type_11 INT, soil_type_12 INT, soil_type_13 INT, soil_type_14 INT, soil_type_15 INT, soil_type_16 INT, soil_type_17 INT, soil_type_18 INT, soil_type_19 INT, soil_type_20 INT, soil_type_21 INT, soil_type_22 INT, soil_type_23 INT, soil_type_24 INT, soil_type_25 INT, soil_type_26 INT, soil_type_27 INT, soil_type_28 INT, soil_type_29 INT, soil_type_30 INT, soil_type_31 INT, soil_type_32 INT, soil_type_33 INT, soil_type_34 INT, soil_type_35 INT, soil_type_36 INT, soil_type_37 INT, soil_type_38 INT, soil_type_39 INT, soil_type_40 INT)')
 
 
 
@@ -118,7 +118,7 @@ class dBOperation:
                                        Output: None
                                        On Failure: Raise Exception
 
-                                        Written By: iNeuron Intelligence
+
                                        Version: 1.0
                                        Revisions: None
 
@@ -170,7 +170,7 @@ class dBOperation:
                                        Output: None
                                        On Failure: Raise Exception
 
-                                        Written By: iNeuron Intelligence
+
                                        Version: 1.0
                                        Revisions: None
 

@@ -11,6 +11,7 @@ from predictFromModel import prediction
 import flask_monitoringdashboard as dashboard
 from driveUpload import upload_training
 import threading
+from mailer import mail
 
 os.putenv('LANG', 'en_US.UTF-8')
 os.putenv('LC_ALL', 'en_US.UTF-8')
@@ -20,6 +21,7 @@ app = Flask(__name__)
 dashboard.bind(app)
 CORS(app)
 
+mailing = mail()
 
 @app.route("/", methods=['GET'])
 @cross_origin()
@@ -30,6 +32,7 @@ def home():
 @cross_origin()
 def predictRouteClient():
     try:
+        ans = 1/0
         if request.form is not None:
             path = request.form['filepath']
 
@@ -59,10 +62,13 @@ def predictRouteClient():
             return Response("Please Wait While The Prediction File is Getting Created At %s!!!" % path)
 
     except ValueError:
+        mailing.send_mail(str(ValueError))
         return Response("Error Occurred! %s" %ValueError)
     except KeyError:
+        mailing.send_mail(str(KeyError))
         return Response("Error Occurred! %s" %KeyError)
     except Exception as e:
+        mailing.send_mail(str(e))
         return Response("Error Occurred! %s" %e)
 
 def prediction_task():
@@ -119,10 +125,13 @@ def trainRouteClient():
             return Response("Please Wait While The Prediction File is Getting Created At %s!!!" % path)
 
     except ValueError:
+        mailing.send_mail(str(ValueError))
         return Response("Error Occurred! %s" %ValueError)
     except KeyError:
+        mailing.send_mail(str(KeyError))
         return Response("Error Occurred! %s" %KeyError)
     except Exception as e:
+        mailing.send_mail(str(e))
         return Response("Error Occurred! %s" % e)
     return Response("Training successfull!!")
 
