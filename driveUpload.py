@@ -50,12 +50,7 @@ class upload_training:
         try:
             self.log_writer.log(self.file_object2, 'entered uploadfile_predict of driveUpload.py!!')
 
-            if os.path.isdir("Prediction_Batch_Files"):
-                shutil.rmtree("Prediction_Batch_Files")
 
-            if not os.path.exists("Prediction_Batch_Files"):
-                #os.makedirs(os.getcwd() + "/Prediction_Batch_Files", exist_ok=True)
-                os.mkdir("Prediction_Batch_Files")
 
             username = os.environ.get("GITUSER")
             # Personal Access Token (PAO) from your GitHub account
@@ -77,9 +72,9 @@ class upload_training:
             #os.mkdir("Prediction_Batch_Files")
             path = "Prediction_Batch_Files/"+name
 
-            df.to_csv(name, index=None, header=True, mode='w')
-            os.chmod("Prediction_Batch_Files",0o777)
-            #shutil.copy(name, "Prediction_Batch_Files")
+            df.to_csv(path, index=None, header=True, mode='w')
+            #os.chmod("Prediction_Batch_Files",0o777)
+            #shutil.move(name, "Prediction_Batch_Files")
 
             self.log_writer.log(self.file_object, 'exited uploadfile_predict of driveUpload.py!!')
         except Exception as e:

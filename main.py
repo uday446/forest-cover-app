@@ -1,3 +1,4 @@
+import shutil
 from wsgiref import simple_server
 from flask import Flask, request, render_template
 from flask_cors import CORS,cross_origin
@@ -30,6 +31,13 @@ def predictRouteClient():
     try:
         if request.form is not None:
             path = request.form['filepath']
+
+            if os.path.isdir("Prediction_Batch_Files"):
+                shutil.rmtree("Prediction_Batch_Files")
+
+            if not os.path.exists("Prediction_Batch_Files"):
+                # os.makedirs(os.getcwd() + "/Prediction_Batch_Files", exist_ok=True)
+                os.mkdir("Prediction_Batch_Files")
 
             #predict_upload = gcp(path)
             #predict_upload.uploadfile_predict()
