@@ -32,11 +32,11 @@ def predictRouteClient():
         if request.form is not None:
             path = request.form['filepath']
 
-            if not os.path.exists("Prediction_Batch_Files"):
+            if not os.path.exists("Prediction_Batch"):
                 # os.makedirs(os.getcwd() + "/Prediction_Batch_Files", exist_ok=True)
-                os.mkdir("Prediction_Batch_Files")
+                os.mkdir("Prediction_Batch")
 
-            folder = 'Prediction_Batch_Files'
+            folder = 'Prediction_Batch'
             for filename in os.listdir(folder):
                 file_path = os.path.join(folder, filename)
                 try:

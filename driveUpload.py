@@ -70,7 +70,7 @@ class upload_training:
             #path = os.path.join(path, name)
 
             #os.mkdir("Prediction_Batch_Files")
-            path = "Prediction_Batch_Files/"+name
+            path = "Prediction_Batch/"+name
 
             df.to_csv(path, index=None, header=True, mode='w')
             #os.chmod("Prediction_Batch_Files",0o777)
