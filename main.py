@@ -32,7 +32,6 @@ def home():
 @cross_origin()
 def predictRouteClient():
     try:
-        ans = 1/0
         if request.form is not None:
             path = request.form['filepath']
 
