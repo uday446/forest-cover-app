@@ -10,6 +10,7 @@ from training_Validation_Insertion import train_validation
 from predictFromModel import prediction
 import flask_monitoringdashboard as dashboard
 from driveUpload import upload_training
+import threading
 
 os.putenv('LANG', 'en_US.UTF-8')
 os.putenv('LC_ALL', 'en_US.UTF-8')
@@ -53,17 +54,9 @@ def predictRouteClient():
             predict_upload = upload_training(path)
             predict_upload.uploadfile_predict()
 
-            path = 'Prediction_Batch/'
+            threading.Thread(target=test).start()
 
-            pred_val = pred_validation(path) #object initialization
-
-            pred_val.prediction_validation() #calling the prediction_validation function
-
-            pred = prediction(path) #object initialization
-
-            # predicting for dataset present in database
-            path = pred.predictionFromModel()
-            return Response("Prediction File created at %s!!!" % path)
+            return Response("Please Wait While The Prediction File is Getting Created At %s!!!" % path)
 
     except ValueError:
         return Response("Error Occurred! %s" %ValueError)
@@ -72,6 +65,23 @@ def predictRouteClient():
     except Exception as e:
         return Response("Error Occurred! %s" %e)
 
+def test():
+    try:
+        """
+        Background Process...
+        """
+        path = 'Prediction_Batch/'
+        pred_val = pred_validation(path)  # object initialization
+
+        pred_val.prediction_validation()  # calling the prediction_validation function
+
+        pred = prediction(path)  # object initialization
+
+        # predicting for dataset present in database
+        path = pred.predictionFromModel()
+        return Response("Prediction File Created At %s",path)
+    except Exception as e:
+        raise e
 
 
 @app.route("/train", methods=['POST'])
