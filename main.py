@@ -32,12 +32,21 @@ def predictRouteClient():
         if request.form is not None:
             path = request.form['filepath']
 
-            if os.path.isdir("Prediction_Batch_Files"):
-                shutil.rmtree("Prediction_Batch_Files")
-
             if not os.path.exists("Prediction_Batch_Files"):
                 # os.makedirs(os.getcwd() + "/Prediction_Batch_Files", exist_ok=True)
                 os.mkdir("Prediction_Batch_Files")
+
+            folder = 'Prediction_Batch_Files'
+            for filename in os.listdir(folder):
+                file_path = os.path.join(folder, filename)
+                try:
+                    if os.path.isfile(file_path) or os.path.islink(file_path):
+                        os.unlink(file_path)
+                    elif os.path.isdir(file_path):
+                        shutil.rmtree(file_path)
+                except Exception as e:
+                    raise e
+                    print('Failed to delete %s. Reason: %s' % (file_path, e))
 
             #predict_upload = gcp(path)
             #predict_upload.uploadfile_predict()
