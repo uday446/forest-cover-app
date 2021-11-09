@@ -62,7 +62,7 @@ class prediction:
                     elif val==6:
                         result.append("Cottonwood_Willow")
             result = pandas.DataFrame(result, columns=['Predictions'])
-            path = os.getcwd()+"/Prediction_Output_File/"
+            path = "Prediction_Output_File/"
             result.to_csv(path+"Predictions.csv",header=True,mode='w') #appends result to prediction file
             upload = upload_training(path)
             upload.upload_Prediction()
