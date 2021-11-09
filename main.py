@@ -79,7 +79,7 @@ def test():
 
         # predicting for dataset present in database
         path = pred.predictionFromModel()
-        return Response("Prediction File Created At %s",path)
+
     except Exception as e:
         raise e
 
