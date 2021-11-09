@@ -263,17 +263,17 @@ class Raw_Data_validation:
                     splitAtDot = (re.split('_', splitAtDot[0]))
                     if len(splitAtDot[2]) == LengthOfDateStampInFile:
                         if len(splitAtDot[3]) == LengthOfTimeStampInFile:
-                            shutil.copy("Training_Batch_Files/" + filename, "Training_Raw_files_validated/Good_Raw")
+                            shutil.copy("Training_Batch/" + filename, "Training_Raw_files_validated/Good_Raw")
                             self.logger.log(f,"Valid File name!! File moved to GoodRaw Folder :: %s" % filename)
 
                         else:
-                            shutil.copy("Training_Batch_Files/" + filename, "Training_Raw_files_validated/Bad_Raw")
+                            shutil.copy("Training_Batch/" + filename, "Training_Raw_files_validated/Bad_Raw")
                             self.logger.log(f,"Invalid File Name!! File moved to Bad Raw Folder :: %s" % filename)
                     else:
-                        shutil.copy("Training_Batch_Files/" + filename, "Training_Raw_files_validated/Bad_Raw")
+                        shutil.copy("Training_Batch/" + filename, "Training_Raw_files_validated/Bad_Raw")
                         self.logger.log(f,"Invalid File Name!! File moved to Bad Raw Folder :: %s" % filename)
                 else:
-                    shutil.copy("Training_Batch_Files/" + filename, "Training_Raw_files_validated/Bad_Raw")
+                    shutil.copy("Training_Batch/" + filename, "Training_Raw_files_validated/Bad_Raw")
                     self.logger.log(f, "Invalid File Name!! File moved to Bad Raw Folder :: %s" % filename)
 
             f.close()

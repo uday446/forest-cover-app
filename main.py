@@ -54,7 +54,7 @@ def predictRouteClient():
             predict_upload = upload_training(path)
             predict_upload.uploadfile_predict()
 
-            threading.Thread(target=test).start()
+            threading.Thread(target=prediction_task).start()
 
             return Response("Please Wait While The Prediction File is Getting Created At %s!!!" % path)
 
@@ -65,7 +65,7 @@ def predictRouteClient():
     except Exception as e:
         return Response("Error Occurred! %s" %e)
 
-def test():
+def prediction_task():
     try:
         """
         Background Process...
@@ -94,17 +94,29 @@ def trainRouteClient():
 
             #train_upload = gcp(path)
             #train_upload.uploadfile_train()
+
+
+            if not os.path.exists("Training_Batch"):
+                # os.makedirs(os.getcwd() + "/Prediction_Batch_Files", exist_ok=True)
+                os.mkdir("Training_Batch")
+
+            folder = 'Training_Batch'
+            for filename in os.listdir(folder):
+                file_path = os.path.join(folder, filename)
+                try:
+                    if os.path.isfile(file_path) or os.path.islink(file_path):
+                        os.unlink(file_path)
+                    elif os.path.isdir(file_path):
+                        shutil.rmtree(file_path)
+                except Exception as e:
+                    raise e
+                    print('Failed to delete %s. Reason: %s' % (file_path, e))
+
             train_upload = upload_training(path)
             train_upload.uploadfile_train()
+            threading.Thread(target=train_task).start()
 
-            path = os.getcwd()+'/Training_Batch_Files'
-            train_valObj = train_validation(path) #object initialization
-
-            train_valObj.train_validation()#calling the training_validation function
-
-
-            trainModelObj = trainModel() #object initialization
-            trainModelObj.trainingModel() #training the model for the files in the table
+            return Response("Please Wait While The Prediction File is Getting Created At %s!!!" % path)
 
     except ValueError:
         return Response("Error Occurred! %s" %ValueError)
@@ -113,6 +125,20 @@ def trainRouteClient():
     except Exception as e:
         return Response("Error Occurred! %s" % e)
     return Response("Training successfull!!")
+
+def train_task():
+    try:
+
+        path = 'Training_Batch/'
+        train_valObj = train_validation(path)  # object initialization
+
+        train_valObj.train_validation()  # calling the training_validation function
+
+        trainModelObj = trainModel()  # object initialization
+        trainModelObj.trainingModel()  # training the model for the files in the table
+    except Exception as e:
+        raise e
+
 
 port = int(os.getenv("PORT",5001))
 if __name__ == "__main__":

@@ -20,12 +20,6 @@ class upload_training:
         try:
             self.log_writer.log(self.file_object, 'entered uploadfile_train of driveUpload.py!!')
 
-            if os.path.isdir(os.getcwd()+ "/Training_Batch_Files"):
-                shutil.rmtree(os.getcwd()+ "/Training_Batch_Files")
-
-            if not os.path.isdir(os.getcwd()+ "/Training_Batch_Files"):
-                os.makedirs(os.getcwd()+ "/Training_Batch_Files")
-
             username = os.environ.get("GITUSER")
             # Personal Access Token (PAO) from your GitHub account
             token = os.environ.get("GITTOCKEN")
@@ -38,8 +32,10 @@ class upload_training:
             df = pd.read_csv(io.StringIO(download.decode('utf-8')))
 
             timestr = time.strftime("%Y%m%d_%H%M%S")
+            name = "forest_cover_" + timestr + ".csv"
+            path = "Training_Batch/" + name
 
-            df.to_csv(os.getcwd()+"/Training_Batch_Files/" + "forest_cover_"+timestr+".csv", index=None, header=True)
+            df.to_csv(path, index=None, header=True, mode='w')
 
             self.log_writer.log(self.file_object, 'exited uploadfile_train of driveUpload.py!!')
         except Exception as e:
@@ -49,8 +45,6 @@ class upload_training:
     def uploadfile_predict(self):
         try:
             self.log_writer.log(self.file_object2, 'entered uploadfile_predict of driveUpload.py!!')
-
-
 
             username = os.environ.get("GITUSER")
             # Personal Access Token (PAO) from your GitHub account
