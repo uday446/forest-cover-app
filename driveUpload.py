@@ -87,7 +87,7 @@ class upload_training:
             token = os.environ.get("GITTOCKEN")
             g = Github(token)
 
-            repo = g.get_user().get_repo('forest-cover-app')
+            repo = g.get_user().get_repo('Predictions')
             all_files = []
             contents = repo.get_contents("")
             while contents:
