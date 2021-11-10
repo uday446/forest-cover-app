@@ -31,8 +31,10 @@ class upload_training:
             # Reading the downloaded content and making it a pandas dataframe
             df = pd.read_csv(io.StringIO(download.decode('utf-8')))
 
-            timestr = time.strftime("%Y%m%d_%H%M%S")
-            name = "forest_cover_" + timestr + ".csv"
+            url = url.split("/")
+            temp = url[-1]
+            temp = temp.split("?")
+            name = temp[0]
             path = "Training_Batch/" + name
 
             df.to_csv(path, index=None, header=True, mode='w')
@@ -57,9 +59,10 @@ class upload_training:
             # Reading the downloaded content and making it a pandas dataframe
             df = pd.read_csv(io.StringIO(download.decode('utf-8')))
 
-            timestr = time.strftime("%Y%m%d_%H%M%S")
-
-            name = "forest_cover_" + timestr + ".csv"
+            url = url.split("/")
+            temp = url[-1]
+            temp = temp.split("?")
+            name = temp[0]
             #path = os.path.join(os.getcwd(),"/Prediction_Batch_Files/")
             #path = os.path.join(path, name)
 
