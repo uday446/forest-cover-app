@@ -1,4 +1,4 @@
-# Forest_Cover_Classification APP
+# Forest_Cover_Classification
 
 ## 💡 Problem Statement:
 
