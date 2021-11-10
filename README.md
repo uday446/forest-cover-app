@@ -40,4 +40,4 @@ You can see output file in your github repo.
 
 ## Contributors
 
-1. [Uday](https://www.linkedin.com/in/udayrajsinh-jadeja-69844b225/)
+1. [Udayrajsinh Jadeja](https://www.linkedin.com/in/udayrajsinh-jadeja-69844b225/)
